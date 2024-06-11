@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DemonessFreya
-- 👀 I’m interested in programming and game development
+- 👀 I’m interested in programming within game development
 - 🌱 I’m currently learning C++ and OpenGL
-- 💞️ I’m looking to collaborate on idk yet
+- 💞️ I’m looking to collaborate on probably nothing
 - 📫 How to reach me somewhere
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: demon in disguise
