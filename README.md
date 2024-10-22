@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DemonessFreya
-- 👀 I’m interested in programming within game development
-- 🌱 I’m currently learning C++ and OpenGL
-- 💞️ I’m looking to collaborate on maybe something
-- 📫 How to reach me; somewhere
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: demon in disguise
+- Hi, I’m Freyja
+- I'm a recently graduated year 12 student from NSW
+- I work primarily in C++
+- How to reach me; at https://demoness.dev/
+- Pronouns: she/her
+- Fun fact: demon in disguise
